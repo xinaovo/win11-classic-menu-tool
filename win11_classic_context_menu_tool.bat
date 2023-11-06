@@ -9,14 +9,15 @@ cls
 echo.============================================
 echo.   Windows 11 Classic Context Menu Tool
 echo.   (C) 2023 Xina, All rights reserved.
-echo.   This software is a free software
-echo.   published under GNU GPLv2 license.
+echo.
+echo.   This is a free software published under
+echo.   GNU GPLv2 license.
 echo.============================================
+echo.
 echo.NOTICE: CHANGES WILL TAKE EFFECT AFTER YOU
 echo.        RESTART THE EXPLORER!
 echo.
 echo.Choose an operation:
-echo.
 echo.1. Enable Claasic Context Menu
 echo.2. Restore Default Menu
 echo.3. Restart Explorer
